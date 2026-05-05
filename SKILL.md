@@ -2,12 +2,12 @@
 name: benchmark-skill
 description: |
   짧고 맥락 있는 벤치마킹 엔진. 5블록(정의+성공실패·구조·WHY·차용포인트·백본1줄)로 수렴. SINGLE·MULTI·METAPHOR 3모드. 4대 스코프(조직/제품/캠페인/정책).
-  P1: 벤치마킹, benchmark, benchmarking, 벤치마킹스킬, 사례분석, 성공사례, 실패사례, 크로스벤치, 은유벤치마킹, 레퍼런스분석, 경쟁사분석.
-  P2: 벤치마킹해줘, 벤치해줘, benchmark this, analyze cases.
-  P3: cross-benchmarking, case analysis, reference study.
-  P4: 기획 시작 전, 레퍼런스 찾을 때.
-  P5: .md로, 옵시디언으로.
-  NOT: 18축패턴매칭(→biz-skill), 리서치설계(→research-frame), 인물프로파일(→person-profiler), 카피분석(→copywriting-engine).
+    P1: 벤치마킹, benchmark, benchmarking, 벤치마킹스킬, 사례분석, 성공사례, 실패사례, 크로스벤치, 은유벤치마킹, 레퍼런스분석, 경쟁사분석, 타사사례, 사례연구, 해외사례, 글로벌벤치마킹, 업계벤치마킹, 선진사례, 롤모델분석, 비교분석, 사례비교, 캠페인사례, 제품벤치마크.
+    P2: 벤치마킹해줘, 벤치해줘, benchmark this, analyze cases, 사례 분석해줘, 레퍼런스 찾아줘, 비슷한 사례 있어, 잘 된 사례 알려줘, 성공사례 뽑아줘.
+    P3: cross-benchmarking, case analysis, reference study, competitive analysis, success-failure pattern, best practice research.
+    P4: 기획 시작 전, 레퍼런스 찾을 때, 경쟁사 분석할 때.
+    P5: .md로, 옵시디언으로.
+    NOT: 18축패턴매칭(→biz-skill), 리서치설계(→research-skill), 인물프로파일(→profiler-skill), 카피분석(→copywriting-skill).
 version: 1.0.0
 ---
 
